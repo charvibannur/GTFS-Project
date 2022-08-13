@@ -27,4 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png)
 
+# Contributors
 
+* [Charvi Bannur](https://github.com/charvibannur)
+
+* [Chaitra Bhat](https://github.com/Chaitra-Bhat383)
+
+* [Gagan Goutham](https://github.com/GaganGoutham)
