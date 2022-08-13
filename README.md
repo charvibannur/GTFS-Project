@@ -6,7 +6,7 @@
 
 # Neo4j
 
-![image](https://user-images.githubusercontent.com/79207846/184502043-8c598f00-d5c4-4d48-b1df-0947f87e9e10.png)
+![image](https://user-images.githubusercontent.com/79207846/184502043-8c598f00-d5c4-4d48-b1df-0947f87e9e10.png | width=100)
 
 ![image](https://user-images.githubusercontent.com/79207846/184502069-55ab13a1-a4e1-4e46-90f7-ea2577d8a8bb.png)
 
