@@ -9,7 +9,7 @@
 
 # Neo4j
 
-<img src="https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png" width="400" height="400">
 
 ![image](https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png)
 
