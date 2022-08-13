@@ -16,7 +16,7 @@
 
 # Kepler.gl
 
-<img src="https://user-images.githubusercontent.com/79207846/184502643-21fb8564-aadd-4be8-b128-6b1790479662.png" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/79207846/184502643-21fb8564-aadd-4be8-b128-6b1790479662.png" width="600" height="400">
 
 # ArcGIS
 
