@@ -8,8 +8,6 @@
 
 # Neo4j
 
-<img src="https://user-images.githubusercontent.com/79207846/184502301-b258808a-fc58-48b5-ad13-a9aca51381c5.png" width="400" height="400">
-
 ![image](https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png)
 
 
