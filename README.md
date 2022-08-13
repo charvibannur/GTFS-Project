@@ -11,7 +11,8 @@
 * Each of these files provides a collection of fields that can be used to determine the spatial and temporal characteristics of a given bus.
 
 # Folium
-![image](https://user-images.githubusercontent.com/79207846/184502516-844dc2c7-c5e0-4349-880d-eb865571a224.png)
+
+![]<img src="https://user-images.githubusercontent.com/79207846/184502516-844dc2c7-c5e0-4349-880d-eb865571a224.png" width="700" height="300">
 
 
 # Neo4j
