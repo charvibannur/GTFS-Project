@@ -10,6 +10,10 @@
 * The data is broken down into several csv files, including agency.csv, calender.csv, feed info.csv, routes.csv, shapes.csv, stop\_times.csv, stops.csv, translation.csv and trips.csv. 
 * Each of these files provides a collection of fields that can be used to determine the spatial and temporal characteristics of a given bus.
 
+# Folium
+![image](https://user-images.githubusercontent.com/79207846/184502516-844dc2c7-c5e0-4349-880d-eb865571a224.png)
+
+
 # Neo4j
 
 ![image](https://user-images.githubusercontent.com/79207846/184502020-48db9132-30bd-435f-a319-c1d9a7998e1e.png)
