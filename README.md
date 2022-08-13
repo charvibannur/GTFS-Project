@@ -20,7 +20,7 @@
 
 # ArcGIS
 
-<img src="https://user-images.githubusercontent.com/79207846/184502758-400668f0-9f9b-469f-94f3-2a7b8ca0b5a7.png" width="700" height="300">
+<img src="https://user-images.githubusercontent.com/79207846/184502758-400668f0-9f9b-469f-94f3-2a7b8ca0b5a7.png" width="700" height="400">
 
 
 # Neo4j
