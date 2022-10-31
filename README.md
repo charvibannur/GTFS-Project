@@ -1,5 +1,7 @@
 # GTFS
 
+* Paper accepted at ICDDS
+
 * The GTFS, or General Transit Feed Specification, is an international standard for planning public transportation and its spatial and temporal components in metropolitan areas . 
 * To create our models and make inferences, we use the city of Pune, India as a case study. The Pune Mahanagar Parivahan Mahamandal Limited makes the [Pune GTFS](http://opendata.punecorporation.org/Citizen/CitizenDatasets/Index?categoryId=15) statistics available. 
 
